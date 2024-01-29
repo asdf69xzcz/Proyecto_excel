@@ -1,0 +1,20 @@
+#include <GL/glut.h>
+#include <windows.h>
+#include <list>
+#include <iterator>
+#include <iostream>
+#include <math.h>
+#include <stdio.h>
+#include <iostream>
+#include <time.h>
+#include <ctype.h>
+#include <string>
+#include <math.h>
+#include <cstdlib>
+#include <stdlib.h>
+#include <sstream>
+#include <vector>
+#include <utility>
+#include "MATRIZ.h"
+#include "MATRIZ_DISPERSA.h"
+using namespace std;
